@@ -1,0 +1,1 @@
+Client ID: 5, Nume: Burlacu Elena, Tip: double, Camera Nr.: 5

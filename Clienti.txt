@@ -1,0 +1,6 @@
+ID: 1, Nume: Lupastean, Prenume: Sorin
+ID: 2, Nume: Burtila, Prenume: Daniel
+ID: 3, Nume: Lupastean, Prenume: Daniel
+ID: 5, Nume: Soldan, Prenume: Cristina
+ID: 3, Nume: Lupu, Prenume: Alexandru
+ID: 5, Nume: Burlacu, Prenume: Elena
